@@ -7,8 +7,8 @@
 
 # Projects
 [learning Java tutorials]
-https://github.com/BHASVIC-CompSci/java-bridging-lesson-Aryan471-198
-https://github.com/BHASVIC-CompSci/Shapes
+\https://github.com/BHASVIC-CompSci/java-bridging-lesson-Aryan471-198
+\https://github.com/BHASVIC-CompSci/Shapes
 https://github.com/BHASVIC-CompSci/java-banking1
 https://github.com/BHASVIC-CompSci/java-animals
 https://github.com/BHASVIC-CompSci/Project2
