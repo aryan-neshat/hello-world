@@ -1,9 +1,20 @@
-# Intoduction
+# Introduction
 
+I am a college student interested in software development and coding.<br>
+I enjoy learning programming skills and improving my understanding of Java clion.<br>
+My professional goals are to graduate from college, continue to university, and achieve a degree.<br>
 
+## Areas of Interest
+- Software Development
+- Java Programming
+- Coding and Problem Solving
+- Learning New Programming Skills
 
-
-
+## Current Goals
+- Complete my college course successfully
+- Progress to university
+- Continue improving my Java programming skills
+- Build projects that develop my experience in coding
 
 
 # Projects
